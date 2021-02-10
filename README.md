@@ -4,7 +4,9 @@
   Complete Study
 
 # Library
-  ''' numpy '''
+  ''' 
+    numpy
+  '''
   
   scipy
   
