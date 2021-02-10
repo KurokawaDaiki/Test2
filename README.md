@@ -2,7 +2,7 @@
 #完全練習
 #Complete Study
 
-Library
+# Library
 numpy
 scipy
 scikit-learn
