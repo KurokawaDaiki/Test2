@@ -8,9 +8,14 @@
     numpy
     
   
+  
     scipy
   
+  
+  
     scikit-learn
+  
+  
   
     matplotlib
 
