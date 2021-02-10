@@ -3,7 +3,7 @@
 #Complete Study
 
 # Library
-numpy
+1. numpy
 scipy
 scikit-learn
 matplot;ib
