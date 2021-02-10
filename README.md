@@ -4,15 +4,15 @@
   Complete Study
 
 # Library
-    ''' 
+    
     numpy
-    '''
+    
   
-  scipy
+    scipy
   
-  scikit-learn
+    scikit-learn
   
-  matplotlib
+    matplotlib
 
 # version
   Python 3.6
