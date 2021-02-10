@@ -4,6 +4,6 @@
 
 # Library
 * numpy
-scipy
-scikit-learn
-matplot;ib
+  scipy
+  scikit-learn
+  matplot;ib
