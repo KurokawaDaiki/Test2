@@ -10,3 +10,6 @@
   scikit-learn
   
   matplotlib
+
+# version
+  Python 3.6
